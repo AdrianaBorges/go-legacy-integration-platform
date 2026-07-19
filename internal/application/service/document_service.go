@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/domain/document"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/domain/document"
 )
 
 var (

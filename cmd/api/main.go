@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/application/service"
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/infrastructure/repository/memory"
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/interfaces/httpapi"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/application/service"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/infrastructure/repository/memory"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/interfaces/httpapi"
 )
 
 func main() {

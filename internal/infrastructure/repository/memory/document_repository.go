@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/application/service"
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/domain/document"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/application/service"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/domain/document"
 )
 
 type DocumentRepository struct {

@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/application/service"
-	"github.com/seu-usuario/go-legacy-integration-platform/internal/infrastructure/repository/memory"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/application/service"
+	"github.com/AdrianaBorges/go-legacy-integration-platform/internal/infrastructure/repository/memory"
 )
 
 func TestCreateDocumentIsIdempotent(t *testing.T) {
